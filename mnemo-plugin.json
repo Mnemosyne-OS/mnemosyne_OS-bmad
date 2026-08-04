@@ -1,7 +1,7 @@
 {
   "name": "@mnemosyne-plugins/bmad-2",
   "displayName": "BMAD 2.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Productivity",
   "icon": "icon.svg",
   "description": "Brief - Mapping - Architecture - Delivery. Complete multi-step wizard for project design and validation.",
@@ -10,7 +10,7 @@
     "en": "Brief - Mapping - Architecture - Delivery. Complete multi-step wizard for project design and validation.",
     "es": "Brief - Mapeo - Arquitectura - Entrega. Asistente completo de múltiples pasos para el diseño y la validación de proyectos."
   },
-  "repository": "https://github.com/yaka0007/mnemosyne_OS-bmad",
+  "repository": "https://github.com/Mnemosyne-OS/mnemosyne_OS-bmad",
   "permissions": [
     "vault:read",
     "vault:write",
