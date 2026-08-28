@@ -1,6 +1,14 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mnemosyne-OS/Mnemosyne-Neural-OS/main/assets/banner-mnemosyne-os.png" width="100%" alt="Mnemosyne OS — Your memory. Your machine. Your rules." />
+
+🌐 [**mnemosyne-os.io**](https://mnemosyne-os.io) — the product&ensp;·&ensp;[**mnemosyne-os.com**](https://mnemosyne-os.com) — for organizations&ensp;·&ensp;📖 [**docs.mnemosyne-os.io**](https://docs.mnemosyne-os.io) — the documentation
+
+</div>
+
 # 🧭 BMAD 2.0 — Brief · Mapping · Architecture · Delivery
 
-[![Mnemosyne OS Cartridge](https://img.shields.io/badge/Mnemosyne%20OS-Cartridge-0ea5e9?style=for-the-badge)](https://github.com/yaka0007/Mnemosyne-Neural-OS)
+[![Mnemosyne OS Cartridge](https://img.shields.io/badge/Mnemosyne%20OS-Cartridge-0ea5e9?style=for-the-badge)](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS)
 [![License: EULA](https://img.shields.io/badge/License-Mnemosyne%20OS%20Cartridge%20EULA-10b981?style=for-the-badge)](./LICENSE.md)
 
 **BMAD 2.0** is an AI-assisted **project scoping studio** for **Mnemosyne OS**. It turns a raw idea into a structured, validated *cadrage* — **B**rief, **M**apping, **A**rchitecture, **D**elivery — and then generates the documents from it: Markdown specs, SVG architecture diagrams, and HTML slide decks. A copilot assists every field, and every project is archived into your sovereign vault.
@@ -8,7 +16,7 @@
 > [!IMPORTANT]
 > **BMAD 2.0 is a cartridge — it runs inside Mnemosyne OS.** Install the host app first, then load this cartridge from MnemoHub (or link it in dev mode).
 >
-> [![Download latest release](https://img.shields.io/badge/⬇%20Download-Mnemosyne%20OS%20latest-0ea5e9?style=for-the-badge)](https://github.com/yaka0007/Mnemosyne-Neural-OS/releases/latest) &nbsp; [![Mnemosyne OS repository](https://img.shields.io/badge/GitHub-Mnemosyne%20OS-181717?style=for-the-badge&logo=github)](https://github.com/yaka0007/Mnemosyne-Neural-OS)
+> [![Download latest release](https://img.shields.io/badge/⬇%20Download-Mnemosyne%20OS%20latest-0ea5e9?style=for-the-badge)](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS/releases/latest) &nbsp; [![Mnemosyne OS repository](https://img.shields.io/badge/GitHub-Mnemosyne%20OS-181717?style=for-the-badge&logo=github)](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS)
 
 ![BMAD 2.0 welcome — with the Mnemosyne AI copilot](./docs/images/landing.png)
 
@@ -106,6 +114,18 @@ The app starts at `http://localhost:5190/`. You can run it standalone or load it
 Distributed under the **Mnemosyne OS Cartridge License**. You are free to inspect, modify, and customize the code as long as it executes and distributes within the **Mnemosyne OS** ecosystem.
 
 For commercial use, redistribution outside the platform, or standalone hosting, please see the [LICENSE.md](./LICENSE.md) file.
+
+## Which Mnemosyne is this?
+
+Several unrelated projects share the name. This cartridge runs inside **Mnemosyne OS**, the sovereign, local-first memory operating system published by XPACEGEMS LLC. Its only official addresses:
+
+- Product site: <https://mnemosyne-os.io>
+- Organizations: <https://mnemosyne-os.com>
+- Documentation: <https://docs.mnemosyne-os.io>
+- Host source: <https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS>
+- Packages: the npm scope `@mnemosyne_os`
+
+It is not the Mnemosyne spaced-repetition flashcard software, and it is not the `mnemosyne-oss` GitHub organization. Those are different projects by different authors.
 
 ---
 
