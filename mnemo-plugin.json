@@ -1,7 +1,7 @@
 {
   "name": "@mnemosyne-plugins/bmad-2",
   "displayName": "BMAD 2.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "Productivity",
   "icon": "icon.svg",
   "keywords": ["project", "brief", "architecture", "delivery", "wizard", "specification", "projet"],
