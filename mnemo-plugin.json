@@ -4,6 +4,7 @@
   "version": "1.0.1",
   "category": "Productivity",
   "icon": "icon.svg",
+  "keywords": ["project", "brief", "architecture", "delivery", "wizard", "specification", "projet"],
   "description": "Brief - Mapping - Architecture - Delivery. Complete multi-step wizard for project design and validation.",
   "descriptionI18n": {
     "fr": "Brief - Cartographie - Architecture - Livraison. Assistant multi-étapes complet pour la conception et la validation de projets.",
