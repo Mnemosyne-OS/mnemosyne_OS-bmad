@@ -1,10 +1,18 @@
 {
   "name": "@mnemosyne-plugins/bmad-2",
   "displayName": "BMAD 2.0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "Productivity",
   "icon": "icon.svg",
-  "keywords": ["project", "brief", "architecture", "delivery", "wizard", "specification", "projet"],
+  "keywords": [
+    "project",
+    "brief",
+    "architecture",
+    "delivery",
+    "wizard",
+    "specification",
+    "projet"
+  ],
   "description": "Brief - Mapping - Architecture - Delivery. Complete multi-step wizard for project design and validation.",
   "descriptionI18n": {
     "fr": "Brief - Cartographie - Architecture - Livraison. Assistant multi-étapes complet pour la conception et la validation de projets.",
@@ -25,6 +33,7 @@
   "widgets": [
     {
       "id": "bmad-main",
+      "icon": "⚙️",
       "name": "BMAD 2.0",
       "route": "index.html",
       "defaultWidth": 950,
